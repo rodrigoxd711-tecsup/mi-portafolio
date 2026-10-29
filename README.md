@@ -54,3 +54,10 @@ git push origin main
 | git push | Sube los cambios al remoto |
 
 > Documentar es parte del trabajo, no un extra al final.
+
+
+## Documentación del proyecto
+
+En esta sección se presenta la documentación del proyecto **Tienda TECSUP**, desarrollado durante el curso de Diseño de Interfaces de Programación Avanzado.
+
+- [Guía del proyecto Tienda TECSUP](docs/GUIA.md)
